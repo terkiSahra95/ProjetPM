@@ -2,6 +2,8 @@ package com.example.projetpm;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Build;
 import android.util.Log;
 
@@ -24,11 +26,16 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         Log.d("FirebaseMessage", "Vous venez de recevoir une notification :"+myMessage);
 
+
         //faire apparaître la notif
 
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this,CANAL);
         notificationBuilder.setContentTitle("Ma notification !");
         notificationBuilder.setContentText(myMessage);
+        //vibration
+
+        //long[] vibrationpattern = {500, 1000};
+        //notificationBuilder.setVibrate(vibrationpattern);
 
         notificationBuilder.setSmallIcon(R.drawable.bell);
         NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
