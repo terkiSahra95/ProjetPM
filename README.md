@@ -30,7 +30,7 @@ Ce qui a été réalisé:
 
 Ce que j'ai essayé de réaliser mais qui ne fonctionne pas correctement:
 
-	- Approche CI 
+	- Approche CI (.github/worflows/android_build.yml) 
 	
 Screnns:
 
