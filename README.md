@@ -1,8 +1,11 @@
+
 # ProjetPM
 
 ProjetPM de TERKI Sahra 3A33
 
+!!!!!!
 La branche à compiler pour avoir le projet final est: any/action
+!!!!!!
 
 Le projetPM propose une application simple affichant une pokedex.
 Cette application utilise une API, affiche la liste des pokemon à l'aide d'une recycleur View et permet de recevoir des notifications du programmateur de l'application.
@@ -41,5 +44,5 @@ Screnns:
 
 
 
- 
+
 
