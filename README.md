@@ -30,7 +30,7 @@ Ce que j'ai essayé de réaliser mais qui ne fonctionne pas correctement:
 	- Approche CI 
 	
 Screnns:
-![Screenshot](Documents\1.png) 
+<img width="248" alt="1" src="https://user-images.githubusercontent.com/80683125/120084408-39c6ea00-c0d0-11eb-87af-98dd88b127e4.png">
 
 
 
