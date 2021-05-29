@@ -10,14 +10,21 @@ La liste des pokémons est stockées en cache(http).
 Tout cela suit une architecture mvvm.
 
 Ce qui a été réalisé:
-	-Écran avec une liste d’éléments.
+
+	-Écran avec une liste d’éléments. 
+	
 	-Écran avec le détail d’un élément.
+	
 	-Appel WebService à une API Rest.
+	
 	-Stockage de données en cache
+	
 	-Architecture MVVM
+	
 	-Gitflow
+	
 	-Notification Firebase( fichier : MyFireBaseMessagingService)
 
 Ce que j'ai essayé de réaliser mais qui ne fonctionne pas correctement:
-	
+
 	- Approche CI 
