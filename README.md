@@ -30,7 +30,7 @@ Ce que j'ai essayé de réaliser mais qui ne fonctionne pas correctement:
 	- Approche CI 
 	
 Screnns:
-![Alt text](http://full/path/to/1.png "Optional title")
+![Screenshot](Documents\1.png) 
 
 
 
