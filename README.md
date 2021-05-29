@@ -28,3 +28,9 @@ Ce qui a été réalisé:
 Ce que j'ai essayé de réaliser mais qui ne fonctionne pas correctement:
 
 	- Approche CI 
+	
+Screnns:
+
+![GitHub Logo](Documents/1.png)
+
+
